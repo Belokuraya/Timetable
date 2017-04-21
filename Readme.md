@@ -10,7 +10,7 @@
 ## Установка проекта
 
 ```bash
-$ git clone https://github.com/Belokuraya/Timetable.git project
+$ git clone https://github.com/Lunory/Timetable.git project
 $ cd project
 $ npm install
 ```
